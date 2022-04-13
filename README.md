@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adi
 - 👀 I’m interested in web development, IOT, hardware engineering, product management, MVP, MVVP 
-- 🌱 I’m currently learning Vue.js, Nuxt.js, TypeScript, Tailwind CSS, React JS, Jira
+- 🌱 I’m currently learning Vue.js, Nuxt.js, TypeScript, Tailwind CSS, React JS, Jira, Azure DevOps
 - 💞️ I’m looking to collaborate on web development and product management 
 - 📫 You can reach me at @adiandroo on Twitter!
