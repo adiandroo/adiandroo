@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adi
 - 👀 I’m interested in web development, IOT, hardware engineering, product management
-- 🌱 I’m currently learning Next.js, Nuxt.js, TypeScript, Tailwind CSS, React JS, PHP, WordPress
+- 🌱 I’m currently learning Next.js, Nuxt.js, TypeScript, Tailwind CSS, PHP, WordPress
 - 💞️ I’m looking to collaborate on web development and product management 
 - 📫 You can reach me at @adiandroo on Twitter!
